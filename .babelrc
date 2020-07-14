@@ -1,0 +1,7 @@
+{
+  "presets": ["@babel/env"],
+  //Плагин поддержки экспериментальных возможностей
+  "plugins": [
+      "@babel/proposal-class-properties"
+  ]
+}
